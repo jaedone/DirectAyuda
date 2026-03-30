@@ -1,8 +1,8 @@
 [package]
-name = "agapay"
+name = "DirectAyuda"
 version = "0.1.0"
 edition = "2021"
-description = "Agapay Fund lets donors send USDC on Stellar into a transparent relief pool where victims claim funds instantly via verified QR-based identity, eliminating delays and corruption."
+description = "AyudaDirect sends government subsidies or donations directly to citizens’ Stellar wallets with fixed, auditable amounts."
 license = "MIT"
 
 [lib]
